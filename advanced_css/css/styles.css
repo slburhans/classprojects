@@ -5,7 +5,7 @@ img { display:block; margin: 0% auto;width:100%;}
 a:hover{color: rgb(0, 0, 0);text-decoration: none;}
 
 #container{width:65%; margin:20px auto; padding:20px; border:10px solid #FFD18B; background-color: rgb(106, 128, 97);}
-header {text-align: center;padding: 50px;border: bottom 2px;}
+header {text-align: center;padding: 50px;border: bottom 2px rgb(108, 17, 15);}
 header h1{ color: saddlebrown;font-size: xx-large;}
 nav{text-align:center;border-top:4px solid rgb(108,17,15);border-bottom:4px solid rgb(108, 17, 15);padding: 20px;}
 nav a{color:rgb(0, 0, 0); font-size:medium;margin:0 20px;}
