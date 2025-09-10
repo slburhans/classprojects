@@ -5,14 +5,14 @@ img { display:block; margin: 0% auto;width:100%;}
 a:hover{color: rgb(0, 0, 0);text-decoration: none;}
 
 #container{width:65%; margin:20px auto; padding:20px; border:10px solid #FFD18B; background-color: rgb(106, 128, 97);}
-header {text-align: center;padding: 50px;border: bottom 2px #FFD18B;}
+header {text-align: center;padding: 50px;border: bottom 2px;}
 header h1{ color: saddlebrown;font-size: xx-large;}
 nav{text-align:center;border-top:4px solid rgb(108,17,15);border-bottom:4px solid rgb(108, 17, 15);padding: 20px;}
 nav a{color:rgb(0, 0, 0); font-size:medium;margin:0 20px;}
 nav ul {list-style-type: none; padding:0;}
 nav li {display: inline; margin:15px;}
 nav li a {display: inline-block;background-color: darkslategrey; color: rgb(0, 0, 0);width:160px; height: 40px;line-height: 40px; font-size:25px;border-radius:10px;border:2px solid rgb(108, 17, 15);text-decoration: none;}
-nav li a:hover {background-color:(108,17,15); color: #FFD18B;}
+nav li a:hover {background-color: rgb(108, 17, 15); color: #FFD18B;}
 main h2{ text-align: center;color: rgb(0, 0, 0);}
 .multi_col{ display: flex;}
 section, aside {border-radius: 20px; padding:20px; border:4px solid rgb(108, 17, 15); margin:20px;}
