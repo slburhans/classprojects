@@ -6,9 +6,8 @@ a:hover{color: rgb(0, 200, 255);text-decoration: none;}
 
 #container{width:65%; margin:20px auto; padding:20px; border:10px solid #cd83ff; background-color: rgb(5, 82, 248);}
 nav{text-align:center;border-top:4px solid rgb(255, 1, 234);border-bottom:4px solid rgb(255, 1, 234);padding: 20px;}
-nav a{color:rgb(0, 0, 0); font-size:medium;margin:0 20px;}
 nav ul {list-style-type: none; padding:0;}
-nav li {display: inline; margin:15px;}
+nav li {display:inline;}
 nav li a {display: inline-block;background-color: rgb(4, 255, 255); color: rgb(0, 0, 0);width:200px; height: 70px;line-height: 70px; font-size:20px;border-radius:10px;border:2px solid rgb(108, 17, 15);text-decoration: none;}
 nav li a:hover {background-color: rgb(255, 1, 234); color: #FFD18B;}
 main h2{ text-align: center;color: rgb(249, 146, 234);}
@@ -27,6 +26,7 @@ hr{border:1px;}
   margin-left: auto;
   margin-right: auto;
   width: 50%;}
+iframe{ width:100%;}
 /* Responsive Design */
 @media (max-width: 1024px) {
     #container {
